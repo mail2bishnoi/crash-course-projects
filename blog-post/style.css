@@ -1,0 +1,15 @@
+h1,
+h2 {
+  color: #083d77;
+  font-size: 23px;
+  font-family: "Roboto", sans-serif;
+}
+h2 {
+  font-size: 18px;
+}
+
+.paragraph {
+  color: #333;
+  font-size: 16px;
+  font-family: "Nunito", sans-serif;
+}
